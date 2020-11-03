@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RigoTechnology
+comment0.text=\n\ This\ Class\ is\ GUI\ based\ class.\n\ All\ the\ Components\ used\ in\ this\ class\ are\ of\ Java\ GUI\ i.e.\ awt\ and\ Swing.\ \n\ @author\ Pawan\ Chaudhary\n\ @version\ 1.2\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Below,\ We\ Define\ a\ main\ method.\n\ This\ method\ creates\ static\ object\ of\ this\ class.\n
+comment2.params=
+comment2.target=void\ gui()
+comment2.text=\n\ This\ method\ consists\ the\ GUI\ layout\ of\ the\ program.\n
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.text=\n\ This\ method\ provide\ popup\ check\ box\ while\ click\ on\ close\ button\ on\ the\ top\ of\ frame.\n
+comment4.params=btn
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ This\ method\ provide\ buttons\ to\ do\ their\ function.\n\ This\ method\ consists\ different\ types\ of\ conditions\ and\ exception\ to\ each\ button.\n
+numComments=5

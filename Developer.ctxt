@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Developer
+comment0.text=\n\ Here,\ we\ declare\ a\ class\ and\ this\ is\ parent\ class\ as\ well.\n\ @author(Pawan\ Chaudhary)\n\ @version(13-01-2019)\n
+comment1.params=thePlatform\ interviewerName\ workingHours
+comment1.target=Developer(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Here,\ we\ declare\ a\ constructor.\n\ @param\ String\ thePlatform,String\ interviewerName,int\ workingHours\n
+comment2.params=
+comment2.target=java.lang.String\ getThePlatform()
+comment2.text=\n\ Here,\ we\ declare\ getter\ method\ for\ thePlatform\n\ @return\ thePlatform\n
+comment3.params=
+comment3.target=java.lang.String\ getInterviewerName()
+comment3.text=\n\ Here,\ we\ declare\ getter\ method\ for\ interviewerName\n\ @return\ interviewerName\n
+comment4.params=
+comment4.target=int\ getWorkingHours()
+comment4.text=\n\ Here,\ we\ declare\ getter\ method\ for\ workingHours\n\ @return\ workingHours\n
+comment5.params=
+comment5.target=java.lang.String\ getDeveloperName()
+comment5.text=\n\ Here,\ we\ declare\ getter\ method\ for\ developerName\n\ @return\ developerName\n
+comment6.params=developerName
+comment6.target=void\ setDeveloperName(java.lang.String)
+comment6.text=\n\ Here,\ we\ declare\ setter\ method\ for\ developerName\n\ @param\ String\ developerName\n
+comment7.params=
+comment7.target=void\ display()
+comment7.text=\ \n\ This\ method\ is\ set\ to\ display\ the\ value\ of\ variables\ which\ is\ declare\ \n\ \ \ \ \ \ \ in\ above\ methods.\n
+numComments=8
